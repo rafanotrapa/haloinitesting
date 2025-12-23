@@ -1,0 +1,7 @@
+{
+  "name": "Testing",
+  "description": "Enterprise Project Management System for Hutama Karya featuring Agile boards, roadmaps, and AI-driven insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
